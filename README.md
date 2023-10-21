@@ -21,5 +21,12 @@
 ---
 [![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vipulcvaru)](https://github.com/vipulcvaru)
 
+[![Visitors](https://shields.io/badge/dynamic/json?label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fvipulcvaru%2Freadme-visits-counter&color=blue)](https://api.countapi.xyz/hit/vipulcvaru/readme-visits-counter)
+
+[![Visitors](https://api.countapi.xyz/hit/vipulcvaru/readme-visits-counter)](https://api.countapi.xyz/hit/vipulcvaru/readme-visits-counter)
+
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vipulcvaru)](https://github.com/vipulcvaru)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
