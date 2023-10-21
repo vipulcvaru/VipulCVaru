@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vipulcvaru&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vipulcvaru&icon=2&color=12)](https://visitcount.itsvg.in)
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vipulcvaru)](https://github.com/vipulcvaru)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
